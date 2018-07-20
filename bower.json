@@ -1,0 +1,20 @@
+{
+  "name": "ng-kaltural-session",
+  "authors": [
+    "SrihariBalgam"
+  ],
+  "description": "GetKalturaSession",
+  "main": "kalturaSession.js",
+  "license": "MIT",
+  "homepage": "https://github.com/sriharibalgam/ng-kaltura-session.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
